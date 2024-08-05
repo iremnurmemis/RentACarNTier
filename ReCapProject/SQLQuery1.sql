@@ -1,0 +1,6 @@
+﻿CREATE TABLE CarImages (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    CarId INT NOT NULL,
+    ImagePath NVARCHAR(255) NOT NULL,
+    Date DATETIME NOT NULL
+);

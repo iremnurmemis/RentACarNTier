@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251540DC-B946-40BC-9151-4710DCEA3AC1}|WebAP\u0131\\WebAP\u0131.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\webap\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251540DC-B946-40BC-9151-4710DCEA3AC1}|WebAP\u0131\\WebAP\u0131.csproj|solutionrelative:webap\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251540DC-B946-40BC-9151-4710DCEA3AC1}|WebAP\u0131\\WebAP\u0131.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\webap\u0131\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251540DC-B946-40BC-9151-4710DCEA3AC1}|WebAP\u0131\\WebAP\u0131.csproj|solutionrelative:webap\u0131\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\concrete\\carimagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\concrete\\carimagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\helper\\filehelper\\filehelpermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\helper\\filehelper\\filehelpermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\helper\\filehelper\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\helper\\filehelper\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\helper\\filehelper\\constant\\filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\helper\\filehelper\\constant\\filepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\helper\\filehelper\\constant\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\helper\\filehelper\\constant\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\abstract\\icarimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\abstract\\icarimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/cardeneme2/True/SqlTable/dbo.Cars.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A88340-7483-49A1-8D9F-9887058A3F71}|Entities\\Entities.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\entities\\concrete\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A88340-7483-49A1-8D9F-9887058A3F71}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\constants\\pathconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\constants\\pathconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14A21F4-C78B-466A-B9F3-8DC71470D186}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14A21F4-C78B-466A-B9F3-8DC71470D186}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251540DC-B946-40BC-9151-4710DCEA3AC1}|WebAP\u0131\\WebAP\u0131.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\webap\u0131\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251540DC-B946-40BC-9151-4710DCEA3AC1}|WebAP\u0131\\WebAP\u0131.csproj|solutionrelative:webap\u0131\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\dataaccess\\abstract\\icarimagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icarimagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\dataaccess\\concrete\\efcarimagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\efcarimagedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\dataaccess\\concrete\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\dataaccess\\concrete\\efbranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE4E6E6-5C9C-4D56-AFED-55FEF977510D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\efbranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A88340-7483-49A1-8D9F-9887058A3F71}|Entities\\Entities.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\entities\\concrete\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A88340-7483-49A1-8D9F-9887058A3F71}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F3250-5FEB-4B42-A39A-C43AF442D2F3}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\validationrules\\fluentvalidation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|c:\\users\\msi\\source\\repos\\rentacar\\recapproject\\business\\abstract\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCCFD9-D13C-487C-8396-31F1FE7C2D33}|Business\\Business.csproj|solutionrelative:business\\abstract\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHelperManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\FileHelperManager.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helper\\FileHelper\\FileHelperManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\FileHelperManager.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helper\\FileHelper\\FileHelperManager.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAASwEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:18:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarImageManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Concrete\\CarImageManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CarImageManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Concrete\\CarImageManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CarImageManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswDoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:39:48.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilePath.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\Constant\\FilePath.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helper\\FileHelper\\Constant\\FilePath.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\Constant\\FilePath.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helper\\FileHelper\\Constant\\FilePath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:33:27.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\IFileHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helper\\FileHelper\\IFileHelper.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\IFileHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helper\\FileHelper\\IFileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:15:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAP\u0131\\Controllers\\CarImagesController.cs",
+              "RelativeDocumentMoniker": "WebAP\u0131\\Controllers\\CarImagesController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAP\u0131\\Controllers\\CarImagesController.cs",
+              "RelativeToolTip": "WebAP\u0131\\Controllers\\CarImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:29:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAP\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "WebAP\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAP\u0131\\Program.cs",
+              "RelativeToolTip": "WebAP\u0131\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:39:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:03:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileType.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\Constant\\FileType.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Helper\\FileHelper\\Constant\\FileType.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Helper\\FileHelper\\Constant\\FileType.cs",
+              "RelativeToolTip": "Core\\Utilities\\Helper\\FileHelper\\Constant\\FileType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:35:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarImageService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Abstract\\ICarImageService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICarImageService.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Abstract\\ICarImageService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICarImageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:23:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PathConstant.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Constants\\PathConstant.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\PathConstant.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Constants\\PathConstant.cs",
+              "RelativeToolTip": "Business\\Constants\\PathConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:27:54.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Cars [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/cardeneme2/True/SqlTable/dbo.Cars.sql",
+              "ToolTip": "dbo.Cars [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-29T16:17:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeToolTip": "Core\\Utilities\\Business\\BusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:08:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:40:20.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EfCarImageDal.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Concrete\\EfCarImageDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfCarImageDal.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Concrete\\EfCarImageDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfCarImageDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:35:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EfCarDal.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Concrete\\EfCarDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfCarDal.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Concrete\\EfCarDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfCarDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:34:51.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICarDal.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Abstract\\ICarDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICarDal.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Abstract\\ICarDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\ICarDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:34:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICarImageDal.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Abstract\\ICarImageDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICarImageDal.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Abstract\\ICarImageDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\ICarImageDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:34:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EfBrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Concrete\\EfBrandDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfBrandDal.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\DataAccess\\Concrete\\EfBrandDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfBrandDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:33:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Entities\\Concrete\\Car.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Car.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Entities\\Concrete\\Car.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:33:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarImage.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Entities\\Concrete\\CarImage.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\CarImage.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Entities\\Concrete\\CarImage.cs",
+              "RelativeToolTip": "Entities\\Concrete\\CarImage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:27:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidationAspect.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:32:53.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AspectInterceptorSelector.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:29:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MethodInterception.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:23:47.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\ValidationRules\\FluentValidation\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\ValidationRules\\FluentValidation\\UserValidator.cs",
+              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\UserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:04:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T17:04:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAP\u0131\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "WebAP\u0131\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAP\u0131\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "WebAP\u0131\\Controllers\\RentalsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:07:04.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Abstract\\IRentalService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IRentalService.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\Business\\Abstract\\IRentalService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IRentalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:06:30.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

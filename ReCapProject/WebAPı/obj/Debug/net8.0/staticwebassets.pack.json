@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAPı\\wwwroot\\images\\685573f3-4872-444f-ac0e-fa63977e56cf.png",
+      "PackagePath": "staticwebassets\\images\\685573f3-4872-444f-ac0e-fa63977e56cf.png"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\source\\repos\\RentACar\\ReCapProject\\WebAPı\\wwwroot\\images\\default.png",
+      "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPı.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAPı.props",
+      "PackagePath": "build\\WebAPı.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPı.props",
+      "PackagePath": "buildMultiTargeting\\WebAPı.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPı.props",
+      "PackagePath": "buildTransitive\\WebAPı.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
